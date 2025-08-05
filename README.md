@@ -26,21 +26,3 @@ Build a complete data pipeline and dashboard to:
 
 ---
 
-## 📁 Folder Structure
-customer-ltv-dashboard/
-│
-├── data/
-│   └── rfm_customer_ltv_data.csv            # Final cleaned dataset
-│
-├── notebooks/
-│   └── Cleaning_and_Analysis.ipynb          # Python preprocessing and LTV score calculation
-│
-├── dashboard/
-│   └── Customer_LTV_Dashboard.twbx          # Tableau packaged workbook (or link in README)
-│
-├── images/
-│   └── dashboard_screenshot.png             # Image of final dashboard
-│
-├── README.md                                # Project documentation
-└── requirements.txt                         # Optional: list of Python packages
-
